@@ -34,14 +34,14 @@ permalink: /:title/
   #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/rasyid.ridho7/
-twitter: https://twitter.com/rasyidridho7
-instagram: https://instagram.com/rasyid.ridho7
+facebook: rasyid.ridho7
+twitter: rasyidridho7
+instagram: rasyid.ridho7
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/rasyid-ridho-944706101/
+linkedin: rasyid-ridho-944706101
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/rasyid7
+github: rasyid7
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
